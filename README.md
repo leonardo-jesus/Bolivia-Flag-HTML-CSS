@@ -17,7 +17,9 @@
 
 <br>
 
-![Ecoleta](/public/assets/ecoleta-gif.gif)
+<p align="center">
+  <img src="./bolivia-flag.png" alt="Bolivia Flag" />
+</p>
 
 ## 🚀 Technologies
 
