@@ -32,7 +32,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-Ecoleta is a marketplace that helps people to find sediment collection points efficiently.
+Bolivia Flag, made with HTML and CSS, for practice.
 
 ## 🔖 Layout
 
