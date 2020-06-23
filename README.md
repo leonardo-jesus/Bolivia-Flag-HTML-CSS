@@ -20,7 +20,7 @@
 
 <h1 align="center">
   My project:<br><br>
-  <img src="./bolivia-flag.png" alt="Bolivia Flag" />
+  <img alt="Bolivia Flag" title="Bolivia Flag" src="./bolivia-flag.png" width="100%"/>
 </h1>
 
 ## 🚀 Technologies
