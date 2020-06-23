@@ -1,4 +1,5 @@
 <h1 align="center">
+    Original:<br><br>
     <img alt="Bolivia Flag" title="Bolivia Flag" src="https://www.seekpng.com/png/full/302-3023976_download-svg-download-png-argentina-and-bolivia-flag.png" width="220px" />
 </h1>
 
@@ -17,9 +18,10 @@
 
 <br>
 
-<p align="center">
+<h1 align="center">
+  My project:<br><br>
   <img src="./bolivia-flag.png" alt="Bolivia Flag" />
-</p>
+</h1>
 
 ## 🚀 Technologies
 
