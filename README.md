@@ -39,7 +39,7 @@ Bolivia Flag, made with HTML and CSS, for practice.
 
 You can view the project layout in the format via [this link](<https://codepen.io/leonardoj02/pen/ExaGNew>).
 
-## 🤔 How contribute
+## 🤔 How to contribute
 
 - Make a fork;
 - Create a branch with your feature: `git checkout -b my-feature`;
